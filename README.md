@@ -49,6 +49,7 @@
 | **🛡️ Chargeback Sentinel** | Autonomous chargeback evidence & dispute compiler for Razorpay Buildathon (AI Risk Manager Track). Evaluates Visa CE 3.0, ROI Expected Value, and compiles bank-grade 2-page PDF dossiers. | `Python` `FastAPI` `ReportLab` `Pydantic` `LLM Gating` | [💻 Code](https://github.com/prx-mv/Chargeback-Sentinel) |
 | **📸 AI Attendance System** | Computer vision-based real-time attendance management system featuring anti-spoofing liveness verification, blink detection, and multi-camera support. | `Python` `OpenCV` `Face Recognition` `Flask` | [💻 Code](https://github.com/prx-mv/AI-Based-Attendance-System) |
 | **🌤️ Modern Weather App** | Interactive weather analytics web application delivering real-time forecasts, 24h hourly trends, 7-day projection charts, and local search history. | `JavaScript` `Chart.js` `OpenWeatherMap API` `CSS3` | [🌐 Live App](https://prx-mv.github.io/Weather-app/) • [💻 Code](https://github.com/prx-mv/Weather-app) |
+| **🎓 B.Tech Wala** | Engineering resource and syllabus portal offering semester study notes, subject breakdowns, and curriculum guides for B.Tech students. | `React 19` `Tailwind CSS` `Vite` `Lucide` | [🌐 Live App](https://btech-wala.vercel.app) • [💻 Code](https://github.com/prx-mv/b.teach-wala) |
 
 </div>
 
